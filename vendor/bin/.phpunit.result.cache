@@ -1,0 +1,1 @@
+{"version":1,"defects":{"getChatDataTest::testGetChatData":4,"sendChatTest::testSendChat":4},"times":{"getChatDataTest::testGetChatData":0.007,"sendChatTest::testSendChat":0.003}}

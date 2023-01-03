@@ -1,0 +1,14 @@
+{
+    "name": "hp/proakhir",
+    "description": "Membuat website instant chat untuk keperluan kegiatan tour",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Kelompok 6"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
